@@ -1,0 +1,47 @@
+R-2.4 :
+because if the condition of the if statment was true the code will get in infinite loop.
+
+R-2.5 :
+if the account's balance + the price was more than the account's limit the penalty will not be executed .
+
+R-2.7 :
+in Java, a long intejer has a maximum value of 2^63-1 , which is 9,223,372,036,854,775,807.
+number of increaments =(maximum value of long integer)/(increment size)
+=9,223,372,036,854,775,807/128 = 72,057,594,037,927,936
+
+R-2.8 :
+Two interfaces cannot mutually extend each other directly due to the potential for ambiguity and conflicts. instead, interfaces can be used in conjunction with multiple inheritance to provide the desired functionality without introducing these issues
+cause cyclic inheritance
+ 
+R-2.9 :
+icreased complexity and maintenance , tight coupling and dependency , inflexibility , increased memory usage .
+
+
+R-2.10 :
+lack of code reuse ,limited abstraction , reduced clarity and readadility .
+
+R-2.11 :
+the out put is going to be as the following :
+Read it.
+ship it.
+Buy it.
+Read it.
+Box it.
+Read it.
+
+
+
+R
+
+
+
+
+
+
+
+
+
+
+
+
+
