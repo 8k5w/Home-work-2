@@ -31,7 +31,12 @@ Read it.
 
 
 
-R
+R-2.13 :
+No, the object variable `d` of type `Equestrian` cannot be directly cast to the class `Racer`. 
+
+The reason is that `Equestrian` is a subclass of `Horse`, and `Racer` is also a subclass of `Horse`. In Java, a subclass can be cast to its superclass, but it cannot be directly cast to its sibling subclass. 
+
+In this case, `Equestrian` and `Racer` are sibling subclasses of `Horse`. Therefore, a direct cast from `Equestrian` to `Racer` would result in a compilation error.
 
 
 
